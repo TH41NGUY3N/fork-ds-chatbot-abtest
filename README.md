@@ -58,3 +58,12 @@ This repository contains a guided example based on a chatbot hosted on our websi
   python -m pip install --upgrade pip
   pip install -r requirements.txt
   ```
+
+  For `Git Bash` in one command line: 
+  ```bash 
+  pyenv local 3.11.3 && \
+  python -m venv .venv && \
+  source .venv/Scripts/activate && \
+  python -m pip install --upgrade pip && \
+  pip install -r requirements.txt
+  ```

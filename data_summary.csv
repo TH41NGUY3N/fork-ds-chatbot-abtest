@@ -1,0 +1,3 @@
+variation_ga,experiment_viewed_ga_first_binary,experiment_assignment_hubspot_binary,application_started_first_binary,form_interaction_first_binary,application_first_binary,lead_first_binary,interview_first_binary,admitted_first_binary,financing_confirmed_first_binary
+False,32984,1337,11613,6562,1205,1364,121,55,12
+True,33056,1236,9738,5659,1147,1259,124,60,9

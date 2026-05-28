@@ -1,0 +1,17 @@
+version: 2
+
+models:
+  - name: mart_growthbook_experiment_assignment
+    description: overview of participants of A/B tests and the variants they were exposed to
+
+  # - name: mart_growthbook_leads
+  #   description: Fact table for leads, used in Growthbook
+
+  # - name: mart_growthbook_interviews
+  #   description: Fact table for interviews, used in Growthbook
+
+  # - name: mart_growthbook_admitted
+  #   description: Fact table for admitted applicants, used in Growthbook
+
+  # - name: mart_growthbook_financing_confirmed
+  #   description: Fact table for applications with confirmed financing, used in Growthbook

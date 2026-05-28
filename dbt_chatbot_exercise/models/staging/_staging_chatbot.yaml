@@ -1,0 +1,7 @@
+version: 2
+sources:
+  - name: chatbot
+    schema: raw_data_chatbot
+    tables:
+      - name: raw_contacts
+      - name: raw_deals

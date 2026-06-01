@@ -1,0 +1,2501 @@
+user_id,variant,score
+1448,C (Structured CoT),3
+1115,A (Current),2
+1065,A (Current),3
+2288,C (Structured CoT),3
+1538,C (Structured CoT),3
+669,A (Current),3
+1584,C (Structured CoT),4
+2405,C (Structured CoT),3
+498,A (Current),2
+2481,C (Structured CoT),4
+472,A (Current),4
+247,A (Current),3
+924,A (Current),3
+1132,A (Current),1
+671,A (Current),3
+917,A (Current),3
+1415,C (Structured CoT),5
+1607,C (Structured CoT),4
+403,A (Current),5
+1104,A (Current),3
+2073,C (Structured CoT),3
+720,A (Current),2
+2012,C (Structured CoT),4
+2437,C (Structured CoT),5
+197,A (Current),2
+892,A (Current),3
+1265,C (Structured CoT),2
+1035,A (Current),3
+1326,C (Structured CoT),4
+510,A (Current),1
+1428,C (Structured CoT),4
+195,A (Current),2
+1180,A (Current),4
+2033,C (Structured CoT),4
+933,A (Current),4
+1125,A (Current),3
+1823,C (Structured CoT),5
+1367,C (Structured CoT),3
+1993,C (Structured CoT),5
+1259,C (Structured CoT),5
+2275,C (Structured CoT),4
+1274,C (Structured CoT),4
+1937,C (Structured CoT),4
+1267,C (Structured CoT),3
+773,A (Current),2
+1609,C (Structured CoT),3
+1312,C (Structured CoT),4
+135,A (Current),5
+1856,C (Structured CoT),5
+2400,C (Structured CoT),5
+421,A (Current),4
+1756,C (Structured CoT),4
+708,A (Current),4
+94,A (Current),1
+57,A (Current),4
+219,A (Current),2
+1037,A (Current),3
+1294,C (Structured CoT),4
+1953,C (Structured CoT),4
+1450,C (Structured CoT),2
+2360,C (Structured CoT),5
+1466,C (Structured CoT),4
+299,A (Current),3
+2178,C (Structured CoT),3
+179,A (Current),3
+1188,A (Current),4
+1473,C (Structured CoT),3
+189,A (Current),3
+573,A (Current),1
+434,A (Current),5
+519,A (Current),2
+2347,C (Structured CoT),3
+2272,C (Structured CoT),5
+1085,A (Current),4
+1289,C (Structured CoT),4
+1124,A (Current),2
+1342,C (Structured CoT),4
+2257,C (Structured CoT),4
+1491,C (Structured CoT),4
+44,A (Current),4
+1879,C (Structured CoT),2
+451,A (Current),5
+2046,C (Structured CoT),2
+45,A (Current),3
+1284,C (Structured CoT),4
+1968,C (Structured CoT),5
+2091,C (Structured CoT),3
+255,A (Current),1
+1946,C (Structured CoT),5
+1875,C (Structured CoT),5
+1863,C (Structured CoT),3
+565,A (Current),2
+213,A (Current),3
+867,A (Current),2
+743,A (Current),3
+1252,C (Structured CoT),3
+1048,A (Current),3
+1737,C (Structured CoT),5
+1018,A (Current),2
+171,A (Current),4
+2097,C (Structured CoT),3
+2488,C (Structured CoT),5
+2218,C (Structured CoT),4
+1798,C (Structured CoT),5
+545,A (Current),4
+1222,C (Structured CoT),5
+464,A (Current),3
+989,A (Current),1
+1322,C (Structured CoT),4
+603,A (Current),3
+1337,C (Structured CoT),4
+2340,C (Structured CoT),4
+1261,C (Structured CoT),4
+2115,C (Structured CoT),5
+808,A (Current),3
+887,A (Current),5
+1583,C (Structured CoT),4
+1615,C (Structured CoT),4
+1838,C (Structured CoT),4
+1874,C (Structured CoT),3
+283,A (Current),3
+211,A (Current),3
+112,A (Current),3
+1921,C (Structured CoT),4
+2166,C (Structured CoT),5
+458,A (Current),4
+820,A (Current),4
+2185,C (Structured CoT),3
+1656,C (Structured CoT),5
+253,A (Current),2
+252,A (Current),5
+1540,C (Structured CoT),4
+2130,C (Structured CoT),5
+1927,C (Structured CoT),3
+1019,A (Current),2
+423,A (Current),4
+1176,A (Current),3
+621,A (Current),4
+174,A (Current),2
+487,A (Current),4
+1986,C (Structured CoT),3
+1081,A (Current),2
+1118,A (Current),3
+1358,C (Structured CoT),2
+1042,A (Current),4
+1091,A (Current),3
+1356,C (Structured CoT),5
+212,A (Current),3
+614,A (Current),4
+2150,C (Structured CoT),5
+465,A (Current),5
+1468,C (Structured CoT),4
+555,A (Current),3
+908,A (Current),4
+994,A (Current),3
+1969,C (Structured CoT),5
+1789,C (Structured CoT),5
+1599,C (Structured CoT),4
+97,A (Current),2
+1965,C (Structured CoT),5
+1365,C (Structured CoT),5
+1925,C (Structured CoT),4
+612,A (Current),2
+446,A (Current),2
+238,A (Current),2
+2311,C (Structured CoT),4
+874,A (Current),3
+2498,C (Structured CoT),3
+2055,C (Structured CoT),3
+1674,C (Structured CoT),3
+2123,C (Structured CoT),5
+840,A (Current),4
+582,A (Current),5
+1282,C (Structured CoT),4
+980,A (Current),1
+791,A (Current),1
+842,A (Current),3
+483,A (Current),3
+1911,C (Structured CoT),5
+622,A (Current),3
+1503,C (Structured CoT),5
+333,A (Current),2
+479,A (Current),2
+1495,C (Structured CoT),5
+508,A (Current),3
+1451,C (Structured CoT),5
+2424,C (Structured CoT),4
+644,A (Current),5
+481,A (Current),1
+1456,C (Structured CoT),3
+2395,C (Structured CoT),4
+1012,A (Current),3
+765,A (Current),2
+1290,C (Structured CoT),4
+1224,C (Structured CoT),4
+1334,C (Structured CoT),5
+618,A (Current),5
+522,A (Current),3
+583,A (Current),4
+1059,A (Current),3
+1407,C (Structured CoT),5
+297,A (Current),4
+2443,C (Structured CoT),5
+1062,A (Current),3
+858,A (Current),1
+1693,C (Structured CoT),3
+408,A (Current),4
+1079,A (Current),1
+1084,A (Current),1
+169,A (Current),3
+2181,C (Structured CoT),3
+240,A (Current),3
+2306,C (Structured CoT),3
+1998,C (Structured CoT),5
+1902,C (Structured CoT),4
+1051,A (Current),4
+1913,C (Structured CoT),5
+1868,C (Structured CoT),3
+2096,C (Structured CoT),4
+523,A (Current),1
+1738,C (Structured CoT),4
+2473,C (Structured CoT),5
+1848,C (Structured CoT),4
+2369,C (Structured CoT),5
+2250,C (Structured CoT),5
+1884,C (Structured CoT),3
+1512,C (Structured CoT),4
+1460,C (Structured CoT),3
+1939,C (Structured CoT),4
+1724,C (Structured CoT),4
+2026,C (Structured CoT),4
+1608,C (Structured CoT),3
+1978,C (Structured CoT),4
+509,A (Current),4
+633,A (Current),4
+916,A (Current),3
+260,A (Current),2
+1396,C (Structured CoT),5
+2296,C (Structured CoT),5
+2322,C (Structured CoT),1
+803,A (Current),3
+1936,C (Structured CoT),5
+1197,A (Current),4
+1945,C (Structured CoT),2
+757,A (Current),2
+802,A (Current),3
+234,A (Current),3
+1515,C (Structured CoT),4
+941,A (Current),3
+999,A (Current),4
+1103,A (Current),1
+1464,C (Structured CoT),5
+1877,C (Structured CoT),3
+1226,C (Structured CoT),4
+325,A (Current),3
+1764,C (Structured CoT),4
+1954,C (Structured CoT),4
+1378,C (Structured CoT),5
+101,A (Current),3
+2482,C (Structured CoT),5
+1341,C (Structured CoT),4
+388,A (Current),2
+1955,C (Structured CoT),5
+180,A (Current),3
+1695,C (Structured CoT),5
+1663,C (Structured CoT),4
+1305,C (Structured CoT),4
+928,A (Current),3
+1431,C (Structured CoT),4
+2269,C (Structured CoT),3
+142,A (Current),2
+369,A (Current),2
+2446,C (Structured CoT),5
+1086,A (Current),1
+368,A (Current),4
+1675,C (Structured CoT),4
+1045,A (Current),1
+319,A (Current),2
+1539,C (Structured CoT),3
+248,A (Current),2
+322,A (Current),4
+1834,C (Structured CoT),4
+1840,C (Structured CoT),4
+1000,A (Current),3
+943,A (Current),3
+1773,C (Structured CoT),5
+30,A (Current),3
+1300,C (Structured CoT),4
+1994,C (Structured CoT),3
+1915,C (Structured CoT),4
+696,A (Current),3
+2471,C (Structured CoT),2
+2029,C (Structured CoT),2
+1601,C (Structured CoT),3
+2330,C (Structured CoT),5
+1232,C (Structured CoT),5
+2174,C (Structured CoT),5
+1916,C (Structured CoT),3
+1730,C (Structured CoT),3
+1707,C (Structured CoT),4
+1704,C (Structured CoT),4
+756,A (Current),3
+1331,C (Structured CoT),4
+354,A (Current),2
+209,A (Current),3
+2145,C (Structured CoT),5
+904,A (Current),4
+953,A (Current),2
+1338,C (Structured CoT),4
+1552,C (Structured CoT),4
+1568,C (Structured CoT),5
+1944,C (Structured CoT),2
+486,A (Current),2
+1630,C (Structured CoT),4
+2040,C (Structured CoT),4
+200,A (Current),3
+230,A (Current),4
+811,A (Current),1
+788,A (Current),4
+411,A (Current),5
+630,A (Current),4
+1511,C (Structured CoT),3
+663,A (Current),3
+2143,C (Structured CoT),3
+1919,C (Structured CoT),3
+2335,C (Structured CoT),5
+1270,C (Structured CoT),5
+70,A (Current),3
+444,A (Current),4
+2148,C (Structured CoT),3
+2242,C (Structured CoT),4
+1585,C (Structured CoT),5
+232,A (Current),3
+441,A (Current),5
+1628,C (Structured CoT),4
+1323,C (Structured CoT),4
+1279,C (Structured CoT),5
+818,A (Current),3
+600,A (Current),2
+1057,A (Current),5
+415,A (Current),2
+680,A (Current),2
+1519,C (Structured CoT),5
+1117,A (Current),3
+280,A (Current),5
+1386,C (Structured CoT),5
+409,A (Current),2
+1092,A (Current),4
+2283,C (Structured CoT),2
+1217,C (Structured CoT),4
+2079,C (Structured CoT),4
+499,A (Current),2
+1709,C (Structured CoT),4
+2027,C (Structured CoT),3
+790,A (Current),3
+1071,A (Current),3
+2266,C (Structured CoT),5
+436,A (Current),3
+2044,C (Structured CoT),2
+1880,C (Structured CoT),5
+783,A (Current),4
+1477,C (Structured CoT),5
+1832,C (Structured CoT),5
+1837,C (Structured CoT),4
+150,A (Current),2
+1195,A (Current),4
+2452,C (Structured CoT),4
+1242,C (Structured CoT),3
+1056,A (Current),3
+1770,C (Structured CoT),2
+1690,C (Structured CoT),3
+2094,C (Structured CoT),5
+2193,C (Structured CoT),4
+1930,C (Structured CoT),4
+164,A (Current),5
+439,A (Current),1
+1026,A (Current),4
+1383,C (Structured CoT),5
+1979,C (Structured CoT),4
+830,A (Current),3
+655,A (Current),1
+529,A (Current),3
+1134,A (Current),5
+50,A (Current),4
+68,A (Current),3
+2017,C (Structured CoT),4
+1371,C (Structured CoT),4
+2271,C (Structured CoT),4
+49,A (Current),2
+1335,C (Structured CoT),5
+1682,C (Structured CoT),4
+839,A (Current),1
+2163,C (Structured CoT),4
+125,A (Current),4
+611,A (Current),3
+1861,C (Structured CoT),3
+2333,C (Structured CoT),3
+1513,C (Structured CoT),1
+742,A (Current),3
+26,A (Current),1
+2389,C (Structured CoT),4
+1753,C (Structured CoT),4
+1534,C (Structured CoT),3
+1816,C (Structured CoT),3
+1617,C (Structured CoT),3
+1455,C (Structured CoT),4
+566,A (Current),1
+846,A (Current),5
+2490,C (Structured CoT),4
+1457,C (Structured CoT),3
+362,A (Current),3
+1566,C (Structured CoT),5
+2499,C (Structured CoT),5
+2415,C (Structured CoT),2
+1835,C (Structured CoT),3
+1785,C (Structured CoT),4
+431,A (Current),2
+2310,C (Structured CoT),3
+638,A (Current),4
+2188,C (Structured CoT),4
+652,A (Current),3
+241,A (Current),3
+694,A (Current),5
+71,A (Current),2
+2233,C (Structured CoT),5
+651,A (Current),3
+2019,C (Structured CoT),5
+74,A (Current),3
+1164,A (Current),5
+351,A (Current),3
+2290,C (Structured CoT),2
+2169,C (Structured CoT),4
+1099,A (Current),2
+1447,C (Structured CoT),5
+2329,C (Structured CoT),2
+77,A (Current),1
+433,A (Current),1
+2350,C (Structured CoT),3
+1293,C (Structured CoT),5
+158,A (Current),1
+1799,C (Structured CoT),4
+1406,C (Structured CoT),4
+2051,C (Structured CoT),4
+136,A (Current),3
+2138,C (Structured CoT),3
+1929,C (Structured CoT),5
+1691,C (Structured CoT),4
+868,A (Current),3
+1950,C (Structured CoT),2
+52,A (Current),2
+1901,C (Structured CoT),2
+679,A (Current),1
+1504,C (Structured CoT),4
+290,A (Current),4
+2248,C (Structured CoT),5
+1421,C (Structured CoT),5
+1603,C (Structured CoT),2
+533,A (Current),4
+480,A (Current),2
+1404,C (Structured CoT),5
+1933,C (Structured CoT),4
+292,A (Current),4
+1722,C (Structured CoT),2
+1069,A (Current),2
+1024,A (Current),4
+2180,C (Structured CoT),4
+2228,C (Structured CoT),4
+706,A (Current),2
+2035,C (Structured CoT),4
+407,A (Current),2
+2100,C (Structured CoT),4
+2024,C (Structured CoT),5
+2409,C (Structured CoT),4
+979,A (Current),3
+1746,C (Structured CoT),3
+1881,C (Structured CoT),3
+343,A (Current),2
+1991,C (Structured CoT),5
+2477,C (Structured CoT),4
+835,A (Current),4
+1453,C (Structured CoT),4
+300,A (Current),2
+1989,C (Structured CoT),2
+2294,C (Structured CoT),5
+496,A (Current),4
+813,A (Current),5
+930,A (Current),2
+1058,A (Current),4
+1638,C (Structured CoT),5
+2456,C (Structured CoT),4
+221,A (Current),5
+2487,C (Structured CoT),3
+1660,C (Structured CoT),4
+528,A (Current),4
+1487,C (Structured CoT),3
+2376,C (Structured CoT),2
+1610,C (Structured CoT),4
+597,A (Current),3
+85,A (Current),4
+2214,C (Structured CoT),2
+2056,C (Structured CoT),4
+1962,C (Structured CoT),3
+1865,C (Structured CoT),5
+2327,C (Structured CoT),5
+462,A (Current),2
+110,A (Current),2
+1963,C (Structured CoT),4
+355,A (Current),3
+267,A (Current),1
+1546,C (Structured CoT),5
+531,A (Current),3
+2447,C (Structured CoT),5
+291,A (Current),2
+606,A (Current),3
+1561,C (Structured CoT),3
+417,A (Current),5
+473,A (Current),1
+932,A (Current),4
+2280,C (Structured CoT),4
+2420,C (Structured CoT),3
+809,A (Current),1
+799,A (Current),3
+2492,C (Structured CoT),4
+931,A (Current),2
+279,A (Current),3
+1518,C (Structured CoT),5
+884,A (Current),4
+1015,A (Current),3
+19,A (Current),4
+1235,C (Structured CoT),1
+2402,C (Structured CoT),4
+1973,C (Structured CoT),3
+1533,C (Structured CoT),5
+1903,C (Structured CoT),5
+2134,C (Structured CoT),3
+1502,C (Structured CoT),5
+1565,C (Structured CoT),4
+220,A (Current),3
+619,A (Current),5
+1248,C (Structured CoT),4
+304,A (Current),2
+1739,C (Structured CoT),3
+2377,C (Structured CoT),3
+2009,C (Structured CoT),4
+2065,C (Structured CoT),5
+1296,C (Structured CoT),3
+2202,C (Structured CoT),4
+880,A (Current),4
+2159,C (Structured CoT),3
+1006,A (Current),4
+1034,A (Current),3
+1506,C (Structured CoT),4
+1054,A (Current),3
+1870,C (Structured CoT),3
+1101,A (Current),2
+193,A (Current),3
+175,A (Current),1
+766,A (Current),5
+1379,C (Structured CoT),2
+1567,C (Structured CoT),3
+1905,C (Structured CoT),5
+701,A (Current),3
+129,A (Current),3
+341,A (Current),2
+2128,C (Structured CoT),4
+648,A (Current),2
+1287,C (Structured CoT),4
+308,A (Current),3
+384,A (Current),3
+1273,C (Structured CoT),5
+2315,C (Structured CoT),4
+1264,C (Structured CoT),3
+178,A (Current),1
+427,A (Current),1
+787,A (Current),3
+1747,C (Structured CoT),4
+1100,A (Current),2
+2390,C (Structured CoT),2
+185,A (Current),2
+1592,C (Structured CoT),4
+1990,C (Structured CoT),3
+2496,C (Structured CoT),5
+2286,C (Structured CoT),5
+1304,C (Structured CoT),4
+962,A (Current),1
+1640,C (Structured CoT),4
+490,A (Current),5
+762,A (Current),5
+810,A (Current),2
+2278,C (Structured CoT),5
+1430,C (Structured CoT),5
+1658,C (Structured CoT),4
+1526,C (Structured CoT),5
+2087,C (Structured CoT),4
+119,A (Current),1
+1554,C (Structured CoT),4
+282,A (Current),4
+2186,C (Structured CoT),5
+2465,C (Structured CoT),4
+1836,C (Structured CoT),3
+650,A (Current),3
+728,A (Current),3
+367,A (Current),3
+1352,C (Structured CoT),4
+556,A (Current),3
+1411,C (Structured CoT),4
+2281,C (Structured CoT),4
+1914,C (Structured CoT),2
+204,A (Current),4
+2114,C (Structured CoT),4
+121,A (Current),4
+284,A (Current),5
+576,A (Current),4
+1302,C (Structured CoT),5
+2414,C (Structured CoT),5
+276,A (Current),3
+966,A (Current),1
+1548,C (Structured CoT),4
+361,A (Current),4
+1128,A (Current),1
+768,A (Current),4
+2004,C (Structured CoT),5
+1727,C (Structured CoT),5
+1889,C (Structured CoT),4
+287,A (Current),4
+2103,C (Structured CoT),4
+1095,A (Current),5
+889,A (Current),1
+424,A (Current),1
+1809,C (Structured CoT),5
+2348,C (Structured CoT),4
+1588,C (Structured CoT),3
+841,A (Current),2
+66,A (Current),1
+1646,C (Structured CoT),4
+1711,C (Structured CoT),2
+1458,C (Structured CoT),3
+1560,C (Structured CoT),5
+231,A (Current),4
+1576,C (Structured CoT),5
+1570,C (Structured CoT),5
+1186,A (Current),5
+890,A (Current),5
+1400,C (Structured CoT),2
+730,A (Current),3
+737,A (Current),4
+1074,A (Current),3
+375,A (Current),3
+760,A (Current),5
+2251,C (Structured CoT),4
+1668,C (Structured CoT),4
+298,A (Current),1
+599,A (Current),2
+1972,C (Structured CoT),4
+100,A (Current),1
+1055,A (Current),3
+1780,C (Structured CoT),5
+1238,C (Structured CoT),3
+530,A (Current),5
+1934,C (Structured CoT),4
+1613,C (Structured CoT),4
+1209,C (Structured CoT),4
+637,A (Current),2
+2197,C (Structured CoT),4
+186,A (Current),3
+1997,C (Structured CoT),5
+945,A (Current),1
+1805,C (Structured CoT),4
+1657,C (Structured CoT),4
+1779,C (Structured CoT),5
+512,A (Current),3
+801,A (Current),3
+1135,A (Current),4
+1395,C (Structured CoT),4
+2406,C (Structured CoT),2
+608,A (Current),1
+1208,C (Structured CoT),3
+152,A (Current),3
+1558,C (Structured CoT),5
+857,A (Current),3
+1136,A (Current),2
+875,A (Current),3
+2276,C (Structured CoT),3
+24,A (Current),3
+159,A (Current),2
+332,A (Current),3
+1111,A (Current),3
+2388,C (Structured CoT),5
+1718,C (Structured CoT),4
+2366,C (Structured CoT),4
+2450,C (Structured CoT),4
+643,A (Current),2
+1438,C (Structured CoT),5
+312,A (Current),3
+352,A (Current),3
+549,A (Current),4
+1745,C (Structured CoT),5
+1126,A (Current),4
+307,A (Current),5
+288,A (Current),2
+695,A (Current),3
+963,A (Current),3
+631,A (Current),4
+1813,C (Structured CoT),3
+950,A (Current),4
+1390,C (Structured CoT),5
+987,A (Current),3
+991,A (Current),2
+1591,C (Structured CoT),3
+782,A (Current),3
+1377,C (Structured CoT),4
+837,A (Current),4
+1436,C (Structured CoT),4
+2418,C (Structured CoT),4
+14,A (Current),3
+1221,C (Structured CoT),3
+1408,C (Structured CoT),4
+515,A (Current),1
+410,A (Current),4
+862,A (Current),3
+314,A (Current),3
+1871,C (Structured CoT),4
+1303,C (Structured CoT),3
+1280,C (Structured CoT),5
+2500,C (Structured CoT),5
+2359,C (Structured CoT),5
+383,A (Current),4
+1200,A (Current),4
+1624,C (Structured CoT),1
+1878,C (Structured CoT),5
+1510,C (Structured CoT),5
+1002,A (Current),3
+2241,C (Structured CoT),5
+264,A (Current),2
+1291,C (Structured CoT),5
+2160,C (Structured CoT),4
+1784,C (Structured CoT),3
+416,A (Current),2
+1114,A (Current),3
+359,A (Current),2
+1174,A (Current),3
+9,A (Current),2
+2021,C (Structured CoT),4
+317,A (Current),3
+305,A (Current),4
+428,A (Current),4
+106,A (Current),1
+2045,C (Structured CoT),4
+122,A (Current),3
+822,A (Current),1
+1553,C (Structured CoT),4
+2291,C (Structured CoT),5
+1399,C (Structured CoT),3
+1776,C (Structured CoT),4
+2300,C (Structured CoT),3
+116,A (Current),5
+1514,C (Structured CoT),4
+745,A (Current),3
+1559,C (Structured CoT),5
+2334,C (Structured CoT),4
+912,A (Current),2
+1489,C (Structured CoT),3
+673,A (Current),5
+2307,C (Structured CoT),4
+2052,C (Structured CoT),4
+1641,C (Structured CoT),4
+310,A (Current),2
+592,A (Current),5
+463,A (Current),5
+1988,C (Structured CoT),4
+942,A (Current),4
+1648,C (Structured CoT),1
+2367,C (Structured CoT),1
+553,A (Current),5
+88,A (Current),3
+691,A (Current),3
+1692,C (Structured CoT),3
+2413,C (Structured CoT),4
+1616,C (Structured CoT),5
+1162,A (Current),4
+2421,C (Structured CoT),4
+1414,C (Structured CoT),5
+2220,C (Structured CoT),3
+544,A (Current),4
+1761,C (Structured CoT),4
+2217,C (Structured CoT),5
+495,A (Current),3
+366,A (Current),4
+2259,C (Structured CoT),3
+1551,C (Structured CoT),4
+274,A (Current),3
+789,A (Current),2
+72,A (Current),1
+1243,C (Structured CoT),4
+1812,C (Structured CoT),5
+64,A (Current),4
+395,A (Current),3
+1205,C (Structured CoT),5
+344,A (Current),4
+1375,C (Structured CoT),4
+1381,C (Structured CoT),5
+501,A (Current),2
+1673,C (Structured CoT),4
+678,A (Current),4
+1028,A (Current),4
+1887,C (Structured CoT),5
+2466,C (Structured CoT),5
+273,A (Current),4
+2474,C (Structured CoT),4
+206,A (Current),5
+734,A (Current),4
+153,A (Current),3
+2371,C (Structured CoT),5
+558,A (Current),3
+378,A (Current),1
+536,A (Current),2
+974,A (Current),2
+1001,A (Current),2
+1873,C (Structured CoT),4
+199,A (Current),2
+562,A (Current),4
+686,A (Current),3
+1214,C (Structured CoT),5
+591,A (Current),3
+520,A (Current),3
+309,A (Current),4
+605,A (Current),4
+2155,C (Structured CoT),4
+2260,C (Structured CoT),5
+60,A (Current),2
+584,A (Current),3
+860,A (Current),4
+208,A (Current),5
+2018,C (Structured CoT),5
+870,A (Current),3
+786,A (Current),3
+907,A (Current),3
+2428,C (Structured CoT),4
+793,A (Current),2
+832,A (Current),2
+163,A (Current),3
+1308,C (Structured CoT),5
+527,A (Current),5
+1577,C (Structured CoT),2
+257,A (Current),3
+507,A (Current),3
+1957,C (Structured CoT),4
+2121,C (Structured CoT),5
+2229,C (Structured CoT),4
+2165,C (Structured CoT),2
+863,A (Current),3
+1676,C (Structured CoT),5
+21,A (Current),1
+1405,C (Structured CoT),5
+440,A (Current),3
+1088,A (Current),3
+382,A (Current),1
+2109,C (Structured CoT),4
+1262,C (Structured CoT),4
+539,A (Current),3
+882,A (Current),3
+903,A (Current),3
+84,A (Current),2
+2104,C (Structured CoT),4
+1201,C (Structured CoT),5
+1310,C (Structured CoT),2
+1227,C (Structured CoT),4
+2131,C (Structured CoT),3
+1750,C (Structured CoT),4
+271,A (Current),3
+1272,C (Structured CoT),2
+1260,C (Structured CoT),4
+2061,C (Structured CoT),4
+2264,C (Structured CoT),3
+1600,C (Structured CoT),4
+1961,C (Structured CoT),5
+1030,A (Current),5
+430,A (Current),4
+2005,C (Structured CoT),2
+2194,C (Structured CoT),4
+2205,C (Structured CoT),5
+459,A (Current),3
+79,A (Current),4
+2430,C (Structured CoT),4
+2133,C (Structured CoT),4
+33,A (Current),3
+2125,C (Structured CoT),5
+1350,C (Structured CoT),3
+2244,C (Structured CoT),4
+381,A (Current),4
+227,A (Current),3
+1995,C (Structured CoT),4
+1193,A (Current),4
+716,A (Current),3
+1763,C (Structured CoT),4
+687,A (Current),3
+2132,C (Structured CoT),3
+2485,C (Structured CoT),3
+306,A (Current),3
+210,A (Current),2
+2154,C (Structured CoT),2
+1671,C (Structured CoT),5
+2478,C (Structured CoT),5
+1072,A (Current),2
+1935,C (Structured CoT),5
+1138,A (Current),4
+2008,C (Structured CoT),4
+938,A (Current),4
+192,A (Current),5
+1212,C (Structured CoT),4
+1076,A (Current),3
+2457,C (Structured CoT),4
+484,A (Current),4
+2384,C (Structured CoT),2
+1605,C (Structured CoT),4
+278,A (Current),3
+1509,C (Structured CoT),4
+222,A (Current),1
+1230,C (Structured CoT),3
+572,A (Current),3
+412,A (Current),2
+1314,C (Structured CoT),5
+1678,C (Structured CoT),4
+2179,C (Structured CoT),3
+586,A (Current),3
+1731,C (Structured CoT),4
+2020,C (Structured CoT),5
+2494,C (Structured CoT),3
+1564,C (Structured CoT),5
+675,A (Current),3
+1178,A (Current),5
+856,A (Current),4
+448,A (Current),3
+1906,C (Structured CoT),3
+1531,C (Structured CoT),3
+223,A (Current),2
+1725,C (Structured CoT),5
+2226,C (Structured CoT),4
+1629,C (Structured CoT),4
+1557,C (Structured CoT),5
+970,A (Current),3
+46,A (Current),4
+2190,C (Structured CoT),4
+2365,C (Structured CoT),5
+295,A (Current),3
+1160,A (Current),3
+589,A (Current),2
+2054,C (Structured CoT),3
+258,A (Current),3
+2064,C (Structured CoT),2
+2467,C (Structured CoT),4
+927,A (Current),4
+2119,C (Structured CoT),5
+2298,C (Structured CoT),3
+437,A (Current),3
+977,A (Current),2
+2037,C (Structured CoT),4
+394,A (Current),3
+426,A (Current),3
+535,A (Current),2
+31,A (Current),3
+1643,C (Structured CoT),4
+2082,C (Structured CoT),5
+1147,A (Current),3
+747,A (Current),2
+1751,C (Structured CoT),3
+1985,C (Structured CoT),3
+1269,C (Structured CoT),5
+2343,C (Structured CoT),4
+1719,C (Structured CoT),5
+2213,C (Structured CoT),4
+1413,C (Structured CoT),5
+1712,C (Structured CoT),4
+2013,C (Structured CoT),5
+345,A (Current),3
+557,A (Current),4
+1424,C (Structured CoT),4
+1038,A (Current),3
+681,A (Current),3
+2230,C (Structured CoT),4
+1107,A (Current),3
+571,A (Current),2
+353,A (Current),1
+92,A (Current),4
+1211,C (Structured CoT),4
+2107,C (Structured CoT),5
+1271,C (Structured CoT),5
+2277,C (Structured CoT),4
+262,A (Current),2
+1463,C (Structured CoT),5
+749,A (Current),3
+1412,C (Structured CoT),4
+1766,C (Structured CoT),3
+2438,C (Structured CoT),2
+1384,C (Structured CoT),2
+1005,A (Current),1
+568,A (Current),3
+323,A (Current),4
+1894,C (Structured CoT),4
+2084,C (Structured CoT),5
+349,A (Current),3
+1090,A (Current),4
+1851,C (Structured CoT),5
+301,A (Current),5
+1659,C (Structured CoT),2
+1317,C (Structured CoT),5
+2015,C (Structured CoT),4
+1011,A (Current),2
+965,A (Current),5
+2370,C (Structured CoT),4
+2356,C (Structured CoT),5
+1129,A (Current),4
+316,A (Current),4
+2070,C (Structured CoT),5
+454,A (Current),2
+914,A (Current),5
+602,A (Current),4
+176,A (Current),2
+901,A (Current),2
+2273,C (Structured CoT),3
+1299,C (Structured CoT),3
+38,A (Current),2
+975,A (Current),1
+124,A (Current),5
+1742,C (Structured CoT),4
+2419,C (Structured CoT),5
+40,A (Current),4
+2417,C (Structured CoT),2
+2010,C (Structured CoT),5
+1772,C (Structured CoT),4
+1966,C (Structured CoT),4
+1499,C (Structured CoT),2
+635,A (Current),4
+1967,C (Structured CoT),5
+580,A (Current),5
+1536,C (Structured CoT),5
+893,A (Current),5
+781,A (Current),1
+160,A (Current),4
+1653,C (Structured CoT),5
+1152,A (Current),3
+62,A (Current),2
+850,A (Current),4
+1545,C (Structured CoT),1
+2411,C (Structured CoT),5
+1044,A (Current),3
+2204,C (Structured CoT),4
+2167,C (Structured CoT),3
+54,A (Current),2
+1547,C (Structured CoT),4
+506,A (Current),4
+753,A (Current),1
+1380,C (Structured CoT),5
+1422,C (Structured CoT),4
+1392,C (Structured CoT),3
+2375,C (Structured CoT),5
+2284,C (Structured CoT),3
+772,A (Current),3
+2339,C (Structured CoT),5
+2235,C (Structured CoT),5
+1194,A (Current),4
+1190,A (Current),3
+1899,C (Structured CoT),5
+1819,C (Structured CoT),2
+1866,C (Structured CoT),4
+1191,A (Current),5
+964,A (Current),3
+1667,C (Structured CoT),5
+399,A (Current),2
+585,A (Current),3
+949,A (Current),3
+705,A (Current),4
+432,A (Current),1
+293,A (Current),3
+1852,C (Structured CoT),5
+1445,C (Structured CoT),4
+1602,C (Structured CoT),1
+3,A (Current),3
+577,A (Current),3
+1791,C (Structured CoT),4
+340,A (Current),5
+1106,A (Current),3
+926,A (Current),2
+266,A (Current),5
+377,A (Current),1
+272,A (Current),1
+697,A (Current),2
+1619,C (Structured CoT),4
+245,A (Current),2
+1652,C (Structured CoT),5
+477,A (Current),3
+1179,A (Current),3
+1196,A (Current),2
+1286,C (Structured CoT),3
+1166,A (Current),5
+2253,C (Structured CoT),4
+251,A (Current),2
+414,A (Current),2
+2412,C (Structured CoT),3
+2081,C (Structured CoT),3
+311,A (Current),4
+894,A (Current),3
+2423,C (Structured CoT),5
+16,A (Current),2
+722,A (Current),2
+2191,C (Structured CoT),3
+982,A (Current),5
+2105,C (Structured CoT),3
+1974,C (Structured CoT),5
+364,A (Current),3
+1620,C (Structured CoT),1
+183,A (Current),2
+986,A (Current),4
+1388,C (Structured CoT),4
+2120,C (Structured CoT),5
+2076,C (Structured CoT),3
+188,A (Current),3
+620,A (Current),5
+1122,A (Current),2
+615,A (Current),1
+2196,C (Structured CoT),5
+995,A (Current),3
+2034,C (Structured CoT),3
+372,A (Current),1
+1339,C (Structured CoT),4
+594,A (Current),4
+727,A (Current),3
+1843,C (Structured CoT),2
+688,A (Current),2
+1661,C (Structured CoT),3
+137,A (Current),3
+629,A (Current),3
+335,A (Current),4
+1481,C (Structured CoT),3
+2237,C (Structured CoT),5
+1110,A (Current),2
+1361,C (Structured CoT),5
+1787,C (Structured CoT),4
+711,A (Current),3
+1040,A (Current),4
+1309,C (Structured CoT),4
+1775,C (Structured CoT),5
+2299,C (Structured CoT),4
+1113,A (Current),4
+466,A (Current),3
+1360,C (Structured CoT),3
+2472,C (Structured CoT),4
+2146,C (Structured CoT),4
+1105,A (Current),4
+1387,C (Structured CoT),5
+2000,C (Structured CoT),4
+1452,C (Structured CoT),5
+2092,C (Structured CoT),5
+1860,C (Structured CoT),4
+1171,A (Current),1
+2099,C (Structured CoT),3
+817,A (Current),3
+1068,A (Current),3
+275,A (Current),2
+1702,C (Structured CoT),5
+866,A (Current),5
+102,A (Current),3
+1614,C (Structured CoT),5
+108,A (Current),4
+2489,C (Structured CoT),3
+1484,C (Structured CoT),5
+1362,C (Structured CoT),4
+1223,C (Structured CoT),4
+1369,C (Structured CoT),4
+2173,C (Structured CoT),5
+2373,C (Structured CoT),4
+1500,C (Structured CoT),5
+713,A (Current),4
+73,A (Current),3
+1801,C (Structured CoT),2
+2404,C (Structured CoT),3
+482,A (Current),3
+1666,C (Structured CoT),5
+1420,C (Structured CoT),5
+1172,A (Current),4
+2023,C (Structured CoT),5
+1442,C (Structured CoT),3
+406,A (Current),4
+758,A (Current),5
+1363,C (Structured CoT),5
+1621,C (Structured CoT),3
+1612,C (Structured CoT),4
+2221,C (Structured CoT),4
+744,A (Current),2
+807,A (Current),3
+2309,C (Structured CoT),5
+1318,C (Structured CoT),3
+1897,C (Structured CoT),5
+1507,C (Structured CoT),5
+149,A (Current),4
+2112,C (Structured CoT),4
+1437,C (Structured CoT),3
+693,A (Current),2
+819,A (Current),1
+1757,C (Structured CoT),3
+1654,C (Structured CoT),4
+1715,C (Structured CoT),5
+702,A (Current),4
+2212,C (Structured CoT),5
+922,A (Current),3
+906,A (Current),3
+455,A (Current),5
+2394,C (Structured CoT),5
+1794,C (Structured CoT),5
+1229,C (Structured CoT),4
+168,A (Current),4
+731,A (Current),3
+1579,C (Structured CoT),5
+27,A (Current),5
+1345,C (Structured CoT),5
+1524,C (Structured CoT),2
+998,A (Current),3
+1177,A (Current),3
+1041,A (Current),2
+1622,C (Structured CoT),4
+1256,C (Structured CoT),3
+1888,C (Structured CoT),2
+42,A (Current),5
+1245,C (Structured CoT),4
+1627,C (Structured CoT),3
+2195,C (Structured CoT),5
+1376,C (Structured CoT),5
+1923,C (Structured CoT),5
+610,A (Current),3
+1133,A (Current),1
+2003,C (Structured CoT),5
+442,A (Current),3
+1353,C (Structured CoT),1
+1943,C (Structured CoT),4
+494,A (Current),5
+1976,C (Structured CoT),4
+237,A (Current),2
+552,A (Current),2
+521,A (Current),3
+2297,C (Structured CoT),5
+1233,C (Structured CoT),5
+1139,A (Current),3
+721,A (Current),5
+1908,C (Structured CoT),3
+2209,C (Structured CoT),3
+59,A (Current),4
+632,A (Current),3
+1182,A (Current),3
+1645,C (Structured CoT),4
+593,A (Current),2
+2177,C (Structured CoT),4
+940,A (Current),4
+2326,C (Structured CoT),5
+1250,C (Structured CoT),4
+905,A (Current),5
+1947,C (Structured CoT),4
+2399,C (Structured CoT),5
+2014,C (Structured CoT),3
+1423,C (Structured CoT),5
+1996,C (Structured CoT),5
+1912,C (Structured CoT),1
+707,A (Current),3
+1023,A (Current),4
+746,A (Current),5
+1830,C (Structured CoT),5
+1713,C (Structured CoT),4
+514,A (Current),3
+82,A (Current),3
+2216,C (Structured CoT),4
+915,A (Current),2
+2302,C (Structured CoT),4
+1818,C (Structured CoT),5
+151,A (Current),3
+775,A (Current),3
+330,A (Current),2
+7,A (Current),2
+944,A (Current),2
+1595,C (Structured CoT),3
+735,A (Current),4
+910,A (Current),3
+469,A (Current),3
+182,A (Current),2
+165,A (Current),4
+452,A (Current),2
+491,A (Current),3
+1917,C (Structured CoT),3
+1144,A (Current),3
+1698,C (Structured CoT),5
+1112,A (Current),3
+2381,C (Structured CoT),4
+1476,C (Structured CoT),3
+1488,C (Structured CoT),4
+1714,C (Structured CoT),3
+1821,C (Structured CoT),4
+2080,C (Structured CoT),4
+1850,C (Structured CoT),4
+1733,C (Structured CoT),4
+1793,C (Structured CoT),4
+328,A (Current),4
+443,A (Current),3
+1593,C (Structured CoT),4
+1382,C (Structured CoT),4
+833,A (Current),3
+2468,C (Structured CoT),4
+1892,C (Structured CoT),2
+1311,C (Structured CoT),2
+87,A (Current),4
+2441,C (Structured CoT),5
+778,A (Current),1
+2427,C (Structured CoT),5
+55,A (Current),4
+1876,C (Structured CoT),3
+1288,C (Structured CoT),4
+1732,C (Structured CoT),4
+1802,C (Structured CoT),5
+1246,C (Structured CoT),2
+114,A (Current),3
+2342,C (Structured CoT),2
+988,A (Current),3
+2262,C (Structured CoT),5
+2074,C (Structured CoT),3
+1010,A (Current),3
+1199,A (Current),3
+590,A (Current),3
+769,A (Current),2
+18,A (Current),2
+1043,A (Current),2
+2041,C (Structured CoT),4
+286,A (Current),3
+429,A (Current),3
+1922,C (Structured CoT),3
+1357,C (Structured CoT),3
+670,A (Current),3
+32,A (Current),3
+723,A (Current),3
+952,A (Current),3
+1765,C (Structured CoT),5
+215,A (Current),3
+1790,C (Structured CoT),3
+1165,A (Current),5
+327,A (Current),3
+561,A (Current),1
+1087,A (Current),3
+1831,C (Structured CoT),3
+342,A (Current),3
+148,A (Current),3
+1841,C (Structured CoT),3
+1108,A (Current),3
+849,A (Current),4
+967,A (Current),5
+1073,A (Current),2
+156,A (Current),3
+2142,C (Structured CoT),4
+2111,C (Structured CoT),5
+1003,A (Current),2
+1845,C (Structured CoT),4
+2093,C (Structured CoT),4
+1849,C (Structured CoT),4
+2210,C (Structured CoT),4
+2353,C (Structured CoT),3
+1204,C (Structured CoT),3
+1633,C (Structured CoT),1
+2346,C (Structured CoT),2
+1394,C (Structured CoT),5
+2352,C (Structured CoT),2
+2289,C (Structured CoT),4
+1981,C (Structured CoT),3
+2243,C (Structured CoT),4
+939,A (Current),1
+2245,C (Structured CoT),4
+347,A (Current),3
+2085,C (Structured CoT),3
+2475,C (Structured CoT),5
+1419,C (Structured CoT),4
+386,A (Current),2
+1581,C (Structured CoT),4
+2098,C (Structured CoT),4
+244,A (Current),1
+1623,C (Structured CoT),3
+937,A (Current),5
+2222,C (Structured CoT),4
+313,A (Current),3
+2440,C (Structured CoT),3
+1525,C (Structured CoT),4
+1333,C (Structured CoT),3
+969,A (Current),4
+661,A (Current),3
+936,A (Current),4
+371,A (Current),5
+567,A (Current),3
+1958,C (Structured CoT),2
+825,A (Current),3
+983,A (Current),2
+1980,C (Structured CoT),4
+1478,C (Structured CoT),3
+2149,C (Structured CoT),3
+814,A (Current),3
+779,A (Current),2
+1321,C (Structured CoT),5
+1522,C (Structured CoT),4
+1053,A (Current),1
+1814,C (Structured CoT),5
+1014,A (Current),3
+1402,C (Structured CoT),4
+1710,C (Structured CoT),2
+2072,C (Structured CoT),5
+1754,C (Structured CoT),3
+127,A (Current),4
+888,A (Current),3
+2030,C (Structured CoT),4
+1348,C (Structured CoT),5
+1008,A (Current),5
+356,A (Current),3
+1004,A (Current),3
+683,A (Current),4
+828,A (Current),3
+1492,C (Structured CoT),3
+985,A (Current),4
+1234,C (Structured CoT),5
+2122,C (Structured CoT),4
+141,A (Current),5
+218,A (Current),2
+2049,C (Structured CoT),2
+1655,C (Structured CoT),1
+2219,C (Structured CoT),4
+1701,C (Structured CoT),2
+1454,C (Structured CoT),5
+23,A (Current),1
+712,A (Current),4
+1158,A (Current),5
+1685,C (Structured CoT),2
+872,A (Current),4
+1462,C (Structured CoT),4
+11,A (Current),3
+1741,C (Structured CoT),3
+2357,C (Structured CoT),2
+2324,C (Structured CoT),2
+1316,C (Structured CoT),4
+755,A (Current),2
+627,A (Current),2
+1729,C (Structured CoT),2
+1469,C (Structured CoT),5
+130,A (Current),4
+844,A (Current),3
+324,A (Current),4
+2157,C (Structured CoT),4
+1449,C (Structured CoT),4
+1285,C (Structured CoT),3
+2422,C (Structured CoT),4
+15,A (Current),3
+2047,C (Structured CoT),5
+216,A (Current),4
+1625,C (Structured CoT),5
+1938,C (Structured CoT),4
+1183,A (Current),4
+1651,C (Structured CoT),3
+1562,C (Structured CoT),2
+865,A (Current),2
+517,A (Current),3
+598,A (Current),3
+196,A (Current),3
+1278,C (Structured CoT),5
+289,A (Current),1
+951,A (Current),3
+2351,C (Structured CoT),5
+1855,C (Structured CoT),5
+2382,C (Structured CoT),4
+1121,A (Current),5
+1573,C (Structured CoT),4
+550,A (Current),4
+157,A (Current),4
+420,A (Current),1
+923,A (Current),2
+1642,C (Structured CoT),3
+478,A (Current),5
+1606,C (Structured CoT),5
+2270,C (Structured CoT),5
+1472,C (Structured CoT),4
+554,A (Current),4
+1203,C (Structured CoT),5
+391,A (Current),5
+579,A (Current),5
+2314,C (Structured CoT),5
+2368,C (Structured CoT),3
+2267,C (Structured CoT),4
+821,A (Current),2
+2486,C (Structured CoT),3
+1007,A (Current),4
+1249,C (Structured CoT),5
+2059,C (Structured CoT),4
+665,A (Current),2
+2463,C (Structured CoT),4
+143,A (Current),1
+2175,C (Structured CoT),5
+1826,C (Structured CoT),2
+422,A (Current),4
+800,A (Current),4
+616,A (Current),3
+1319,C (Structured CoT),1
+296,A (Current),5
+402,A (Current),4
+89,A (Current),1
+2036,C (Structured CoT),5
+2460,C (Structured CoT),3
+132,A (Current),2
+1574,C (Structured CoT),4
+1563,C (Structured CoT),2
+1829,C (Structured CoT),4
+1403,C (Structured CoT),5
+2053,C (Structured CoT),3
+2168,C (Structured CoT),3
+2002,C (Structured CoT),4
+725,A (Current),3
+1315,C (Structured CoT),5
+1768,C (Structured CoT),4
+270,A (Current),2
+1781,C (Structured CoT),4
+2068,C (Structured CoT),5
+1373,C (Structured CoT),5
+918,A (Current),4
+1611,C (Structured CoT),5
+1320,C (Structured CoT),4
+2139,C (Structured CoT),3
+2022,C (Structured CoT),4
+1594,C (Structured CoT),5
+2491,C (Structured CoT),4
+376,A (Current),3
+334,A (Current),3
+1792,C (Structured CoT),3
+2349,C (Structured CoT),5
+1119,A (Current),5
+1443,C (Structured CoT),4
+911,A (Current),2
+777,A (Current),4
+1744,C (Structured CoT),5
+329,A (Current),3
+1343,C (Structured CoT),3
+321,A (Current),3
+2011,C (Structured CoT),5
+13,A (Current),1
+898,A (Current),4
+172,A (Current),3
+261,A (Current),3
+2403,C (Structured CoT),5
+690,A (Current),5
+902,A (Current),4
+259,A (Current),5
+845,A (Current),3
+2303,C (Structured CoT),3
+139,A (Current),5
+320,A (Current),3
+654,A (Current),3
+2203,C (Structured CoT),4
+1815,C (Structured CoT),5
+559,A (Current),3
+140,A (Current),3
+113,A (Current),3
+532,A (Current),3
+225,A (Current),3
+724,A (Current),3
+2320,C (Structured CoT),4
+2137,C (Structured CoT),5
+1434,C (Structured CoT),3
+326,A (Current),4
+1324,C (Structured CoT),4
+1940,C (Structured CoT),2
+1459,C (Structured CoT),4
+1928,C (Structured CoT),4
+2249,C (Structured CoT),3
+715,A (Current),3
+847,A (Current),2
+194,A (Current),5
+1926,C (Structured CoT),4
+574,A (Current),2
+947,A (Current),2
+504,A (Current),3
+1808,C (Structured CoT),3
+2408,C (Structured CoT),5
+646,A (Current),2
+4,A (Current),4
+1778,C (Structured CoT),5
+468,A (Current),2
+1346,C (Structured CoT),4
+6,A (Current),3
+2032,C (Structured CoT),4
+920,A (Current),3
+548,A (Current),3
+229,A (Current),3
+1064,A (Current),5
+543,A (Current),2
+243,A (Current),3
+899,A (Current),4
+1755,C (Structured CoT),2
+1161,A (Current),3
+1833,C (Structured CoT),3
+1689,C (Structured CoT),5
+1810,C (Structured CoT),4
+843,A (Current),3
+1374,C (Structured CoT),4
+2108,C (Structured CoT),3
+2113,C (Structured CoT),4
+1527,C (Structured CoT),3
+277,A (Current),3
+662,A (Current),4
+1827,C (Structured CoT),2
+2117,C (Structured CoT),5
+2358,C (Structured CoT),4
+1859,C (Structured CoT),5
+315,A (Current),3
+1467,C (Structured CoT),4
+1344,C (Structured CoT),4
+1846,C (Structured CoT),4
+692,A (Current),2
+1542,C (Structured CoT),4
+613,A (Current),4
+425,A (Current),3
+1578,C (Structured CoT),4
+595,A (Current),2
+2476,C (Structured CoT),5
+1951,C (Structured CoT),4
+623,A (Current),5
+1806,C (Structured CoT),3
+1494,C (Structured CoT),5
+2239,C (Structured CoT),3
+228,A (Current),1
+2323,C (Structured CoT),5
+1170,A (Current),3
+2038,C (Structured CoT),2
+1703,C (Structured CoT),5
+67,A (Current),5
+1418,C (Structured CoT),2
+2255,C (Structured CoT),5
+25,A (Current),5
+1236,C (Structured CoT),5
+2464,C (Structured CoT),5
+145,A (Current),4
+537,A (Current),5
+812,A (Current),2
+1736,C (Structured CoT),5
+1498,C (Structured CoT),4
+86,A (Current),4
+1255,C (Structured CoT),4
+2208,C (Structured CoT),2
+2362,C (Structured CoT),4
+2067,C (Structured CoT),5
+1670,C (Structured CoT),3
+485,A (Current),3
+2227,C (Structured CoT),4
+2387,C (Structured CoT),4
+739,A (Current),4
+1771,C (Structured CoT),3
+2189,C (Structured CoT),5
+2462,C (Structured CoT),5
+1743,C (Structured CoT),3
+363,A (Current),2
+750,A (Current),3
+2106,C (Structured CoT),4
+1647,C (Structured CoT),3
+1027,A (Current),2
+1031,A (Current),3
+1869,C (Structured CoT),5
+1336,C (Structured CoT),5
+2060,C (Structured CoT),4
+1895,C (Structured CoT),3
+666,A (Current),3
+365,A (Current),1
+2293,C (Structured CoT),2
+1240,C (Structured CoT),4
+78,A (Current),4
+28,A (Current),1
+474,A (Current),5
+526,A (Current),3
+726,A (Current),5
+56,A (Current),1
+639,A (Current),3
+303,A (Current),3
+719,A (Current),2
+1872,C (Structured CoT),3
+625,A (Current),3
+8,A (Current),3
+1281,C (Structured CoT),2
+804,A (Current),2
+1050,A (Current),2
+337,A (Current),5
+1597,C (Structured CoT),3
+48,A (Current),4
+2153,C (Structured CoT),5
+107,A (Current),4
+350,A (Current),3
+1080,A (Current),3
+239,A (Current),3
+214,A (Current),2
+1145,A (Current),1
+2380,C (Structured CoT),5
+1762,C (Structured CoT),4
+794,A (Current),2
+1097,A (Current),4
+2207,C (Structured CoT),5
+1740,C (Structured CoT),3
+2223,C (Structured CoT),2
+346,A (Current),2
+524,A (Current),4
+233,A (Current),2
+645,A (Current),5
+1918,C (Structured CoT),5
+2171,C (Structured CoT),4
+1429,C (Structured CoT),2
+534,A (Current),3
+2172,C (Structured CoT),2
+604,A (Current),3
+1490,C (Structured CoT),4
+1858,C (Structured CoT),4
+1427,C (Structured CoT),4
+1075,A (Current),3
+2006,C (Structured CoT),3
+61,A (Current),3
+1941,C (Structured CoT),4
+93,A (Current),3
+667,A (Current),3
+1721,C (Structured CoT),4
+2247,C (Structured CoT),5
+281,A (Current),3
+1720,C (Structured CoT),3
+1726,C (Structured CoT),3
+360,A (Current),4
+1749,C (Structured CoT),4
+1544,C (Structured CoT),4
+1398,C (Structured CoT),3
+1804,C (Structured CoT),2
+848,A (Current),4
+1207,C (Structured CoT),4
+2263,C (Structured CoT),4
+761,A (Current),2
+111,A (Current),3
+43,A (Current),5
+126,A (Current),3
+205,A (Current),3
+1474,C (Structured CoT),3
+53,A (Current),5
+546,A (Current),5
+69,A (Current),4
+2224,C (Structured CoT),4
+1952,C (Structured CoT),4
+2198,C (Structured CoT),3
+1909,C (Structured CoT),4
+1425,C (Structured CoT),5
+184,A (Current),3
+138,A (Current),2
+900,A (Current),1
+797,A (Current),4
+133,A (Current),3
+81,A (Current),4
+1587,C (Structured CoT),5
+2158,C (Structured CoT),3
+759,A (Current),3
+542,A (Current),4
+1020,A (Current),2
+1767,C (Structured CoT),4
+984,A (Current),4
+2232,C (Structured CoT),4
+166,A (Current),2
+249,A (Current),4
+1332,C (Structured CoT),1
+447,A (Current),4
+1777,C (Structured CoT),5
+859,A (Current),4
+1359,C (Structured CoT),4
+1862,C (Structured CoT),3
+98,A (Current),4
+2308,C (Structured CoT),4
+806,A (Current),2
+738,A (Current),3
+2101,C (Structured CoT),3
+1886,C (Structured CoT),4
+2001,C (Structured CoT),5
+103,A (Current),3
+435,A (Current),1
+75,A (Current),2
+578,A (Current),3
+1847,C (Structured CoT),5
+2313,C (Structured CoT),2
+1231,C (Structured CoT),5
+919,A (Current),2
+1327,C (Structured CoT),3
+2316,C (Structured CoT),3
+2287,C (Structured CoT),4
+2246,C (Structured CoT),4
+763,A (Current),5
+2116,C (Structured CoT),4
+990,A (Current),4
+389,A (Current),4
+236,A (Current),3
+2495,C (Structured CoT),4
+268,A (Current),3
+1330,C (Structured CoT),4
+2304,C (Structured CoT),4
+118,A (Current),4
+438,A (Current),5
+674,A (Current),3
+250,A (Current),2
+2129,C (Structured CoT),4
+1575,C (Structured CoT),5
+2497,C (Structured CoT),3
+95,A (Current),2
+1898,C (Structured CoT),5
+34,A (Current),2
+2135,C (Structured CoT),5
+2285,C (Structured CoT),4
+449,A (Current),4
+1470,C (Structured CoT),4
+1796,C (Structured CoT),2
+717,A (Current),1
+1942,C (Structured CoT),4
+2176,C (Structured CoT),4
+1,A (Current),4
+457,A (Current),4
+1102,A (Current),5
+1109,A (Current),4
+1883,C (Structured CoT),3
+83,A (Current),2
+1482,C (Structured CoT),3
+1977,C (Structured CoT),4
+677,A (Current),4
+2043,C (Structured CoT),5
+2127,C (Structured CoT),4
+1047,A (Current),2
+1461,C (Structured CoT),4
+771,A (Current),2
+1669,C (Structured CoT),3
+2025,C (Structured CoT),5
+1964,C (Structured CoT),5
+518,A (Current),3
+823,A (Current),3
+405,A (Current),2
+385,A (Current),3
+1992,C (Structured CoT),2
+2425,C (Structured CoT),5
+105,A (Current),3
+1634,C (Structured CoT),3
+2385,C (Structured CoT),1
+689,A (Current),1
+2211,C (Structured CoT),4
+827,A (Current),2
+1241,C (Structured CoT),2
+63,A (Current),2
+1306,C (Structured CoT),3
+853,A (Current),4
+2321,C (Structured CoT),3
+177,A (Current),3
+1263,C (Structured CoT),4
+224,A (Current),5
+146,A (Current),3
+1089,A (Current),5
+374,A (Current),3
+1825,C (Structured CoT),4
+2110,C (Structured CoT),4
+1143,A (Current),2
+2393,C (Structured CoT),4
+2164,C (Structured CoT),5
+1275,C (Structured CoT),5
+1266,C (Structured CoT),4
+2234,C (Structured CoT),3
+1949,C (Structured CoT),2
+10,A (Current),3
+450,A (Current),2
+1839,C (Structured CoT),4
+709,A (Current),2
+256,A (Current),5
+883,A (Current),3
+1618,C (Structured CoT),4
+390,A (Current),3
+2016,C (Structured CoT),5
+2396,C (Structured CoT),5
+1582,C (Structured CoT),3
+909,A (Current),4
+925,A (Current),3
+752,A (Current),3
+1890,C (Structured CoT),4
+461,A (Current),3
+1748,C (Structured CoT),4
+1948,C (Structured CoT),4
+1225,C (Structured CoT),5
+1169,A (Current),3
+959,A (Current),3
+502,A (Current),4
+1728,C (Structured CoT),4
+740,A (Current),5
+41,A (Current),5
+869,A (Current),3
+732,A (Current),2
+540,A (Current),1
+1202,C (Structured CoT),3
+1340,C (Structured CoT),4
+698,A (Current),3
+2345,C (Structured CoT),5
+2088,C (Structured CoT),4
+2077,C (Structured CoT),5
+1372,C (Structured CoT),5
+1146,A (Current),4
+1032,A (Current),2
+373,A (Current),2
+668,A (Current),1
+1432,C (Structured CoT),3
+2184,C (Structured CoT),4
+358,A (Current),4
+968,A (Current),5
+784,A (Current),2
+736,A (Current),3
+1354,C (Structured CoT),5
+1036,A (Current),1
+971,A (Current),5
+471,A (Current),3
+656,A (Current),3
+2354,C (Structured CoT),3
+1910,C (Structured CoT),3
+2331,C (Structured CoT),3
+1397,C (Structured CoT),4
+1537,C (Structured CoT),4
+1984,C (Structured CoT),4
+2182,C (Structured CoT),3
+1550,C (Structured CoT),5
+1329,C (Structured CoT),3
+1257,C (Structured CoT),2
+2162,C (Structured CoT),3
+1426,C (Structured CoT),2
+1465,C (Structured CoT),4
+1556,C (Structured CoT),4
+2156,C (Structured CoT),2
+1251,C (Structured CoT),4
+1700,C (Structured CoT),5
+1253,C (Structured CoT),5
+2426,C (Structured CoT),5
+2319,C (Structured CoT),4
+1237,C (Structured CoT),3
+886,A (Current),3
+80,A (Current),4
+1173,A (Current),3
+815,A (Current),2
+1853,C (Structured CoT),3
+1971,C (Structured CoT),4
+672,A (Current),2
+2187,C (Structured CoT),3
+2442,C (Structured CoT),4
+58,A (Current),2
+134,A (Current),2
+1141,A (Current),3
+934,A (Current),2
+929,A (Current),2
+824,A (Current),3
+1433,C (Structured CoT),5
+1393,C (Structured CoT),4
+1532,C (Structured CoT),4
+1215,C (Structured CoT),3
+505,A (Current),3
+2470,C (Structured CoT),5
+348,A (Current),5
+387,A (Current),3
+1025,A (Current),4
+1959,C (Structured CoT),5
+1385,C (Structured CoT),2
+895,A (Current),3
+829,A (Current),3
+2435,C (Structured CoT),4
+476,A (Current),4
+1684,C (Structured CoT),4
+2141,C (Structured CoT),5
+2328,C (Structured CoT),5
+2126,C (Structured CoT),3
+2090,C (Structured CoT),4
+653,A (Current),4
+173,A (Current),1
+1475,C (Structured CoT),3
+1150,A (Current),3
+39,A (Current),3
+1555,C (Structured CoT),2
+2386,C (Structured CoT),5
+714,A (Current),3
+91,A (Current),5
+167,A (Current),3
+1206,C (Structured CoT),4
+876,A (Current),3
+445,A (Current),3
+2152,C (Structured CoT),5
+2292,C (Structured CoT),5
+2484,C (Structured CoT),4
+1094,A (Current),3
+1828,C (Structured CoT),5
+1156,A (Current),3
+1325,C (Structured CoT),3
+217,A (Current),3
+1351,C (Structured CoT),4
+511,A (Current),3
+1681,C (Structured CoT),4
+500,A (Current),2
+2458,C (Structured CoT),4
+1857,C (Structured CoT),4
+1389,C (Structured CoT),5
+1520,C (Structured CoT),2
+1672,C (Structured CoT),4
+339,A (Current),2
+2332,C (Structured CoT),4
+1189,A (Current),5
+29,A (Current),3
+1541,C (Structured CoT),4
+1218,C (Structured CoT),5
+2031,C (Structured CoT),3
+795,A (Current),3
+946,A (Current),3
+1417,C (Structured CoT),3
+170,A (Current),1
+2095,C (Structured CoT),4
+1677,C (Structured CoT),5
+1198,A (Current),3
+1543,C (Structured CoT),3
+1254,C (Structured CoT),4
+1277,C (Structured CoT),4
+913,A (Current),3
+492,A (Current),3
+954,A (Current),2
+1098,A (Current),4
+1033,A (Current),4
+588,A (Current),2
+751,A (Current),3
+658,A (Current),1
+1867,C (Structured CoT),2
+235,A (Current),3
+733,A (Current),3
+2493,C (Structured CoT),4
+1187,A (Current),3
+1157,A (Current),2
+2454,C (Structured CoT),5
+1247,C (Structured CoT),3
+2449,C (Structured CoT),5
+935,A (Current),3
+1210,C (Structured CoT),4
+1066,A (Current),3
+1717,C (Structured CoT),4
+109,A (Current),3
+1063,A (Current),1
+569,A (Current),1
+1168,A (Current),2
+1175,A (Current),2
+1589,C (Structured CoT),5
+1508,C (Structured CoT),4
+1493,C (Structured CoT),2
+891,A (Current),3
+948,A (Current),3
+1049,A (Current),1
+2058,C (Structured CoT),4
+885,A (Current),4
+144,A (Current),3
+2453,C (Structured CoT),4
+851,A (Current),3
+718,A (Current),3
+2372,C (Structured CoT),3
+265,A (Current),1
+76,A (Current),3
+396,A (Current),2
+2118,C (Structured CoT),4
+2336,C (Structured CoT),5
+397,A (Current),3
+1366,C (Structured CoT),4
+2078,C (Structured CoT),5
+1904,C (Structured CoT),5
+596,A (Current),4
+1297,C (Structured CoT),4
+1822,C (Structured CoT),4
+873,A (Current),4
+1549,C (Structured CoT),1
+37,A (Current),3
+2274,C (Structured CoT),5
+2124,C (Structured CoT),4
+978,A (Current),3
+1572,C (Structured CoT),5
+1123,A (Current),3
+1893,C (Structured CoT),4
+676,A (Current),3
+729,A (Current),2
+413,A (Current),3
+1517,C (Structured CoT),5
+1650,C (Structured CoT),3
+826,A (Current),3
+617,A (Current),2
+115,A (Current),3
+418,A (Current),3
+1626,C (Structured CoT),5
+2451,C (Structured CoT),4
+90,A (Current),3
+2083,C (Structured CoT),5
+754,A (Current),2
+1631,C (Structured CoT),5
+12,A (Current),2
+285,A (Current),3
+1067,A (Current),5
+1192,A (Current),2
+1441,C (Structured CoT),4
+2338,C (Structured CoT),4
+2410,C (Structured CoT),5
+2258,C (Structured CoT),5
+1569,C (Structured CoT),4
+2144,C (Structured CoT),2
+1688,C (Structured CoT),4
+852,A (Current),1
+896,A (Current),1
+497,A (Current),5
+1783,C (Structured CoT),5
+336,A (Current),3
+516,A (Current),3
+1349,C (Structured CoT),5
+1016,A (Current),2
+2432,C (Structured CoT),3
+1782,C (Structured CoT),4
+1786,C (Structured CoT),4
+2071,C (Structured CoT),5
+357,A (Current),3
+2379,C (Structured CoT),4
+1313,C (Structured CoT),4
+1636,C (Structured CoT),3
+551,A (Current),3
+1228,C (Structured CoT),5
+2231,C (Structured CoT),4
+958,A (Current),1
+1774,C (Structured CoT),4
+1009,A (Current),3
+1093,A (Current),3
+2225,C (Structured CoT),4
+997,A (Current),3
+1680,C (Structured CoT),5
+154,A (Current),5
+581,A (Current),4
+1471,C (Structured CoT),4
+704,A (Current),4
+1213,C (Structured CoT),4
+897,A (Current),5
+488,A (Current),4
+560,A (Current),4
+1142,A (Current),1
+1120,A (Current),3
+513,A (Current),5
+634,A (Current),3
+2151,C (Structured CoT),4
+1665,C (Structured CoT),5
+1013,A (Current),3
+1932,C (Structured CoT),4
+1151,A (Current),2
+2341,C (Structured CoT),3
+117,A (Current),5
+741,A (Current),4
+2305,C (Structured CoT),5
+1975,C (Structured CoT),4
+1082,A (Current),5
+1811,C (Structured CoT),5
+831,A (Current),5
+120,A (Current),4
+657,A (Current),3
+2378,C (Structured CoT),5
+2240,C (Structured CoT),3
+2445,C (Structured CoT),4
+636,A (Current),4
+370,A (Current),4
+269,A (Current),3
+47,A (Current),5
+992,A (Current),4
+877,A (Current),3
+774,A (Current),1
+1220,C (Structured CoT),4
+1127,A (Current),1
+5,A (Current),3
+1596,C (Structured CoT),4
+1078,A (Current),3
+838,A (Current),3
+682,A (Current),4
+1716,C (Structured CoT),5
+1149,A (Current),3
+575,A (Current),3
+51,A (Current),4
+854,A (Current),2
+1983,C (Structured CoT),4
+1824,C (Structured CoT),2
+834,A (Current),1
+1116,A (Current),2
+1167,A (Current),3
+1907,C (Structured CoT),4
+972,A (Current),1
+400,A (Current),1
+20,A (Current),3
+685,A (Current),4
+36,A (Current),3
+2363,C (Structured CoT),4
+525,A (Current),4
+921,A (Current),2
+1842,C (Structured CoT),4
+1891,C (Structured CoT),4
+538,A (Current),3
+1706,C (Structured CoT),5
+2444,C (Structured CoT),2
+246,A (Current),2
+785,A (Current),2
+1410,C (Structured CoT),4
+155,A (Current),1
+1687,C (Structured CoT),5
+626,A (Current),3
+2397,C (Structured CoT),4
+1347,C (Structured CoT),5
+570,A (Current),1
+1759,C (Structured CoT),4
+1817,C (Structured CoT),3
+2066,C (Structured CoT),5
+128,A (Current),2
+2480,C (Structured CoT),2
+2007,C (Structured CoT),4
+981,A (Current),2
+191,A (Current),2
+1140,A (Current),3
+993,A (Current),3
+700,A (Current),3
+607,A (Current),2
+181,A (Current),3
+302,A (Current),4
+1061,A (Current),3
+2355,C (Structured CoT),4
+2398,C (Structured CoT),4
+1070,A (Current),3
+2206,C (Structured CoT),5
+1244,C (Structured CoT),5
+17,A (Current),1
+2483,C (Structured CoT),5
+547,A (Current),3
+659,A (Current),1
+2252,C (Structured CoT),5
+2282,C (Structured CoT),3
+1505,C (Structured CoT),4
+960,A (Current),4
+798,A (Current),4
+226,A (Current),3
+2075,C (Structured CoT),4
+1800,C (Structured CoT),5
+2469,C (Structured CoT),3
+2086,C (Structured CoT),4
+1694,C (Structured CoT),3
+1046,A (Current),4
+470,A (Current),4
+955,A (Current),4
+2479,C (Structured CoT),4
+640,A (Current),4
+2317,C (Structured CoT),4
+1219,C (Structured CoT),3
+1159,A (Current),4
+1416,C (Structured CoT),1
+2261,C (Structured CoT),3
+1528,C (Structured CoT),2
+2461,C (Structured CoT),3
+1301,C (Structured CoT),5
+2391,C (Structured CoT),4
+1604,C (Structured CoT),4
+161,A (Current),1
+1705,C (Structured CoT),5
+957,A (Current),3
+2431,C (Structured CoT),4
+878,A (Current),3
+1920,C (Structured CoT),3
+1885,C (Structured CoT),4
+2201,C (Structured CoT),4
+99,A (Current),2
+2361,C (Structured CoT),4
+254,A (Current),3
+104,A (Current),3
+1446,C (Structured CoT),4
+1444,C (Structured CoT),3
+1649,C (Structured CoT),5
+587,A (Current),3
+628,A (Current),3
+1697,C (Structured CoT),5
+2102,C (Structured CoT),4
+2200,C (Structured CoT),5
+404,A (Current),5
+1155,A (Current),3
+2256,C (Structured CoT),4
+1683,C (Structured CoT),4
+2057,C (Structured CoT),5
+2374,C (Structured CoT),4
+453,A (Current),3
+1328,C (Structured CoT),3
+2050,C (Structured CoT),5
+881,A (Current),3
+2433,C (Structured CoT),3
+624,A (Current),4
+2312,C (Structured CoT),4
+1788,C (Structured CoT),3
+263,A (Current),4
+1635,C (Structured CoT),4
+1439,C (Structured CoT),4
+2199,C (Structured CoT),3
+1970,C (Structured CoT),5
+1803,C (Structured CoT),4
+641,A (Current),3
+2459,C (Structured CoT),3
+1960,C (Structured CoT),5
+489,A (Current),2
+1844,C (Structured CoT),4
+1735,C (Structured CoT),5
+147,A (Current),2
+1535,C (Structured CoT),1
+1987,C (Structured CoT),2
+1370,C (Structured CoT),5
+2448,C (Structured CoT),5
+660,A (Current),3
+1795,C (Structured CoT),5
+187,A (Current),1
+1148,A (Current),3
+609,A (Current),1
+2192,C (Structured CoT),5
+1931,C (Structured CoT),4
+198,A (Current),2
+294,A (Current),5
+767,A (Current),3
+401,A (Current),2
+123,A (Current),4
+203,A (Current),3
+836,A (Current),3
+2295,C (Structured CoT),4
+1440,C (Structured CoT),5
+1734,C (Structured CoT),3
+1696,C (Structured CoT),3
+1708,C (Structured CoT),3
+2429,C (Structured CoT),4
+1154,A (Current),4
+1662,C (Structured CoT),4
+1760,C (Structured CoT),5
+855,A (Current),4
+1590,C (Structured CoT),4
+2268,C (Structured CoT),5
+642,A (Current),3
+2,A (Current),2
+2161,C (Structured CoT),4
+699,A (Current),3
+1637,C (Structured CoT),5
+1292,C (Structured CoT),3
+2383,C (Structured CoT),4
+1521,C (Structured CoT),5
+1854,C (Structured CoT),4
+1137,A (Current),2
+2416,C (Structured CoT),4
+1632,C (Structured CoT),3
+1999,C (Structured CoT),5
+664,A (Current),4
+684,A (Current),2
+1258,C (Structured CoT),5
+318,A (Current),1
+649,A (Current),3
+1435,C (Structured CoT),3
+1480,C (Structured CoT),3
+710,A (Current),5
+1283,C (Structured CoT),5
+1769,C (Structured CoT),4
+973,A (Current),5
+1307,C (Structured CoT),5
+1401,C (Structured CoT),5
+1409,C (Structured CoT),4
+2238,C (Structured CoT),4
+1497,C (Structured CoT),5
+2039,C (Structured CoT),2
+1530,C (Structured CoT),4
+1664,C (Structured CoT),4
+1355,C (Structured CoT),2
+2439,C (Structured CoT),3
+2455,C (Structured CoT),4
+1644,C (Structured CoT),4
+1052,A (Current),2
+796,A (Current),2
+1598,C (Structured CoT),4
+1820,C (Structured CoT),5
+1723,C (Structured CoT),4
+1184,A (Current),4
+1060,A (Current),3
+541,A (Current),4
+1679,C (Structured CoT),3
+2407,C (Structured CoT),4
+1758,C (Structured CoT),4
+1924,C (Structured CoT),4
+96,A (Current),2
+1021,A (Current),4
+564,A (Current),2
+864,A (Current),2
+1485,C (Structured CoT),4
+1882,C (Structured CoT),4
+1039,A (Current),3
+207,A (Current),3
+393,A (Current),4
+871,A (Current),1
+398,A (Current),3
+2401,C (Structured CoT),4
+1029,A (Current),4
+1486,C (Structured CoT),4
+961,A (Current),1
+1571,C (Structured CoT),3
+1896,C (Structured CoT),4
+2147,C (Structured CoT),1
+805,A (Current),3
+1752,C (Structured CoT),3
+503,A (Current),4
+780,A (Current),4
+1864,C (Structured CoT),4
+201,A (Current),2
+2183,C (Structured CoT),2
+2089,C (Structured CoT),5
+2279,C (Structured CoT),3
+1797,C (Structured CoT),5
+379,A (Current),5
+2337,C (Structured CoT),4
+419,A (Current),3
+1699,C (Structured CoT),4
+392,A (Current),4
+1523,C (Structured CoT),5
+1163,A (Current),3
+1496,C (Structured CoT),5
+2028,C (Structured CoT),2
+1153,A (Current),2
+1368,C (Structured CoT),5
+65,A (Current),3
+2063,C (Structured CoT),5
+1181,A (Current),4
+493,A (Current),3
+380,A (Current),1
+2236,C (Structured CoT),4
+764,A (Current),3
+2265,C (Structured CoT),5
+792,A (Current),2
+1077,A (Current),3
+879,A (Current),5
+338,A (Current),1
+2344,C (Structured CoT),3
+1017,A (Current),2
+1276,C (Structured CoT),5
+456,A (Current),4
+816,A (Current),3
+2318,C (Structured CoT),5
+996,A (Current),4
+1982,C (Structured CoT),3
+202,A (Current),3
+162,A (Current),4
+1580,C (Structured CoT),2
+703,A (Current),3
+1501,C (Structured CoT),3
+1130,A (Current),3
+1022,A (Current),3
+1586,C (Structured CoT),4
+1956,C (Structured CoT),4
+2254,C (Structured CoT),2
+35,A (Current),1
+776,A (Current),2
+1479,C (Structured CoT),3
+1391,C (Structured CoT),5
+2140,C (Structured CoT),4
+1364,C (Structured CoT),4
+2042,C (Structured CoT),4
+242,A (Current),1
+2062,C (Structured CoT),4
+2364,C (Structured CoT),5
+601,A (Current),1
+2436,C (Structured CoT),2
+1298,C (Structured CoT),3
+2215,C (Structured CoT),4
+2069,C (Structured CoT),4
+647,A (Current),5
+1529,C (Structured CoT),4
+1268,C (Structured CoT),2
+1900,C (Structured CoT),4
+563,A (Current),3
+190,A (Current),3
+1807,C (Structured CoT),4
+976,A (Current),5
+2048,C (Structured CoT),5
+1083,A (Current),2
+475,A (Current),3
+748,A (Current),4
+2301,C (Structured CoT),5
+22,A (Current),4
+460,A (Current),4
+1185,A (Current),2
+2325,C (Structured CoT),4
+956,A (Current),2
+1216,C (Structured CoT),3
+2434,C (Structured CoT),3
+1516,C (Structured CoT),3
+2392,C (Structured CoT),4
+770,A (Current),4
+1686,C (Structured CoT),4
+131,A (Current),1
+2136,C (Structured CoT),3
+1483,C (Structured CoT),5
+331,A (Current),2
+1239,C (Structured CoT),4
+467,A (Current),1
+2170,C (Structured CoT),4
+1639,C (Structured CoT),3
+1096,A (Current),3
+1131,A (Current),3
+1295,C (Structured CoT),4
+861,A (Current),2
